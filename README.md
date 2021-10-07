@@ -10,7 +10,7 @@ $ npm install
 
 This installs the required dependencies
 
-# To run the React project.
+# To run the project.
 $ npm start
 
-You are done! Now you can start editing the React project in the new folder that's created.
+You are done! Now you can start editing the project in the new folder that's created.
